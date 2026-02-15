@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Liaoning, China</h3>
 
 <p align="center">
-  <strong>Old name:</strong> MagicQiyi · <strong>Current names:</strong> JustQiyi / TulipQiyi · <strong>Chinese name:</strong> 柒屹
+  <strong>Old name:</strong> <a href="https://github.com/MagicQiyi">MagicQiyi</a> · <strong>Current names:</strong> <a href="https://github.com/JustQiyi">JustQiyi</a> / TulipQiyi · <strong>Chinese name:</strong> 柒屹
 </p>
 
 <p align="center">
@@ -78,7 +78,6 @@
 ## 📫 Connect with me
 <p align="left">
   <a href="https://github.com/TulipQiyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JustQiyi" height="30" width="40" /></a>
-  <!-- 如果您有其它社交账号，可以在这里添加，如LinkedIn、Twitter等 -->
 </p>
 
 ---
